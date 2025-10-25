@@ -1,0 +1,34 @@
+- Use typescript for all code.
+- Write clear and concise comments for all functions and complex code sections.
+- Follow best practices for code structure and organization.
+- Ensure code is modular and reusable.
+- Adhere to consistent naming conventions for variables, functions, and classes.
+- Include error handling for all asynchronous operations.
+- We are using Hono framework for building web applications.
+- Ensure all API routes are defined clearly with appropriate HTTP methods.
+- Use environment variables for configuration settings.
+- Do not keep unwanted dependencies; only use necessary packages.
+- Do not keep unwanted files; only include relevant files for the project.
+- Keep code DRY (Don't Repeat Yourself).
+- Keep code optimized for performance.
+- Keep code secure against common vulnerabilities.
+- Keep code compatible with the latest stable version of Node.js.
+- Dont create unwanted files; only create files that are necessary for the project.
+- When creating new files, ensure they follow the project's file structure conventions.
+- When creating new files, ensure they have appropriate names that reflect their purpose.
+- When creating new files, ensure they include necessary boilerplate code.
+- When creating new files, ensure they include relevant comments and documentation.
+- When creating new files, ensure they are free from syntax errors and warnings.
+- When creating new files, ensure they are tested and validated before finalizing.
+- When creating new files, ensure they adhere to the project's coding standards and guidelines.
+- When creating new files, ensure they are properly integrated with existing code and functionality.
+- When creating new files, ensure they are version controlled and committed with clear messages.
+- Make my code as this can be upgraded to newer versions of dependencies and frameworks with minimal effort.
+- Ensure all code is compatible with TypeScript's strict mode.
+- Use performant data structures and algorithms where applicable.
+- We are making apis so follow api-first approach in all code.
+- Maintain Hono.js best practices in all code.
+- Ensure all code is well-documented for future reference and maintenance.
+- When creating new files, ensure they follow the existing project's folder structure conventions.
+- Dont create unwanted folders; only create folders that are necessary for the project.
+- Ensure unsued things are deleted from the project.
